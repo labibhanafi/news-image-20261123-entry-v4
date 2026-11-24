@@ -1,8 +1,8 @@
 # THE WORLD ON MONDAY — news-image-20261123 entry v4
 
-![Competition](https://make.fun/badge/news-image-20261123.svg)
-![Rank](https://make.fun/badge/news-image-20261123/labibhanafi/news-image-20261123-entry-v4/rank.svg)
-![Reward](https://make.fun/badge/news-image-20261123/labibhanafi/news-image-20261123-entry-v4/reward.svg)
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/labibhanafi/news-image-20261123-entry-v4/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/labibhanafi/news-image-20261123-entry-v4/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 
 A one-image newspaper summing up the world news of **Monday, 23 November 2026**:
 46 stories across 8 regions in a dense 3-column front page, with the day named
